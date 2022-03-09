@@ -11,3 +11,8 @@ Prior to the first two INFOSYS221 lectures, I have some foundational knowledge f
 Reflection Question #15: What does this piece reveal about you as a learner?
 
 I have absolutely no knowledge of Github and its’ knacks for the first lab. Following the instructions given in the lab helps. However, I found out that many of the issues that I will encounter will not be answered in the lab session. Therefore, in addition to the lab content, I prefer to learn from Google searches and Youtube videos in my own time at my own pace to complete the lab assignment, giving me deeper comprehension of the tasks without the rush to catch up to the instructor’s pace.
+
+## 3. Course Overall – Outward Looking
+Reflection Question #21: Did you do your work the way other people did theirs?
+
+At first, I thought that I took some different path than others to complete the tasks. However, upon seeing people posting their lab task advices on Piazza, it seems that many others are taking the same route that I took and that is amazing! Google searches do wonders for many of our curious people wanting to know how to troubleshoot git pushing on Mac. I tried a few different approaches to the issue but in the end, the solutions that work, is the same solution for many of us. It could be faster for me if I would have just asked my peers, but I enjoyed finding out the solution on my own, too.

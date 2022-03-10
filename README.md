@@ -1,8 +1,7 @@
 # INFOSYS221-Journals
 Reflection Journals Submission
 
->nazh474
->Nurul Fatehah
+>nazh474 - Nurul Fatehah
 
 # LEARNING JOURNAL 1
 ## 1. Lecture Content – Backward Looking

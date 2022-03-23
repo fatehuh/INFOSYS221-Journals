@@ -18,3 +18,12 @@ I have absolutely no knowledge of Github and its’ knacks for the first lab. Fo
 *Reflection Question #21: Did you do your work the way other people did theirs?*
 
 At first, I thought that I took some different path than others to complete the tasks. However, upon seeing people posting their lab task advices on Piazza, it seems that many others are taking the same route that I took and that is amazing! Google searches do wonders for many of our curious people wanting to know how to troubleshoot git pushing on Mac. I tried a few different approaches to the issue but in the end, the solutions that work, is the same solution for many of us. It could be faster for me if I would have just asked my peers, but I enjoyed finding out the solution on my own, too.
+
+
+
+#LEARNING JOURNAL 2
+
+## 1. Lecture Content – Backward Looking
+*Reflection Question #5: In what ways do you think you need to improve?*
+
+Coding requires you to be precise and there’s not a big margin for error. I do think I need to improve on my memorization of keywords and how a code should be structured about. For example, pseudocode have its own keyword to indicate certain structure, HTML and Java have certain opening and closing tags that I need to include to make sure it works. As an example, I notice that I still get confused on how to end my pseudocode tags sometimes and I could put more practice into that.

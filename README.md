@@ -21,9 +21,14 @@ At first, I thought that I took some different path than others to complete the 
 
 
 
-#LEARNING JOURNAL 2
+# LEARNING JOURNAL 2
 
 ## 1. Lecture Content – Backward Looking
 *Reflection Question #5: In what ways do you think you need to improve?*
 
 Coding requires you to be precise and there’s not a big margin for error. I do think I need to improve on my memorization of keywords and how a code should be structured about. For example, pseudocode have its own keyword to indicate certain structure, HTML and Java have certain opening and closing tags that I need to include to make sure it works. As an example, I notice that I still get confused on how to end my pseudocode tags sometimes and I could put more practice into that.
+
+# 2. Lab Content – Inward Looking
+*Reflection Question #11: What did you find frustrating about it (the piece of work)?*
+
+The process of creating iterations for pseudocode is particularly challenging for me because I haven’t been able to sit down and practice on the topic due to inevitable travelling and I had to miss the lab on pseudocode. However, I still submitted my work for the lab and the marks I got was disappointing. It is rushed work and it frustrates me that I may not have quite grasped pseudo coding skill needed to understand the lab activity.

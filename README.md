@@ -37,3 +37,8 @@ The process of creating iterations for pseudocode is particularly challenging fo
 *Reflection Question #30: If someone else were looking at the piece, what might they learn about who you are?*
 
 If someone were to take a good look at my assignment 1 work, they may find out that I have rushed it somehow. They may assume that I’m someone who does their tasks in the last minute. I would agree with them on the former, it’s true my assignment was rushed work and it may seem a little shabby but I am not usually someone who starts tasks late. On the other hand, if they had knowledge of my situation prior to looking at my work, they may think it’s not bad work after all. They may think there’s room for improvement.
+
+## 4. Course Overall – Forward Looking
+*Reflection Question #32: What would you change if you had a chance to do this piece over again?*
+
+I truly want to revise my lab submission and get feedbacks from the teaching staffs again to improve my pseudo coding skills. Time is a constraint here and I am trying to catch up with other aspect of the course. I understood that my lab work was not completed, and I might have new ideas for new iterations that can be made just that it may not be a priority at the moment. I also may have asked my assignment group members to help me on the submission. If I could change my lab work, I would want to ask for help from my group member on the work.

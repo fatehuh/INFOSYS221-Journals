@@ -28,7 +28,12 @@ At first, I thought that I took some different path than others to complete the 
 
 Coding requires you to be precise and there’s not a big margin for error. I do think I need to improve on my memorization of keywords and how a code should be structured about. For example, pseudocode have its own keyword to indicate certain structure, HTML and Java have certain opening and closing tags that I need to include to make sure it works. As an example, I notice that I still get confused on how to end my pseudocode tags sometimes and I could put more practice into that.
 
-# 2. Lab Content – Inward Looking
+## 2. Lab Content – Inward Looking
 *Reflection Question #11: What did you find frustrating about it (the piece of work)?*
 
 The process of creating iterations for pseudocode is particularly challenging for me because I haven’t been able to sit down and practice on the topic due to inevitable travelling and I had to miss the lab on pseudocode. However, I still submitted my work for the lab and the marks I got was disappointing. It is rushed work and it frustrates me that I may not have quite grasped pseudo coding skill needed to understand the lab activity.
+
+## 3. Assignment Content – Outward Looking
+*Reflection Question #30: If someone else were looking at the piece, what might they learn about who you are?*
+
+If someone were to take a good look at my assignment 1 work, they may find out that I have rushed it somehow. They may assume that I’m someone who does their tasks in the last minute. I would agree with them on the former, it’s true my assignment was rushed work and it may seem a little shabby but I am not usually someone who starts tasks late. On the other hand, if they had knowledge of my situation prior to looking at my work, they may think it’s not bad work after all. They may think there’s room for improvement.

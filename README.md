@@ -55,3 +55,9 @@ Starting after mid-semester break, I would like to read the module notes before 
 * Reflection Question #29: In what ways did your work not meet the standards for this assignment?*
 
 During the group exercise for Lab 5, I tried to contribute to the discussion of writing the codes. I have the idea of how to structure the code and where to reuse functions, but I can improve better as a code writer. My part of the group work does not meet the lab assignment standard because there are some incomplete functions calls that we forgot to include and I overlooked it.
+
+## 3. Assignment Content – Inward Looking
+* Reflection Question #13: Did you meet your standards?*
+
+My groups matched my standards in designing the prototype for our application. I find our group prototype to be neat and professional-looking and it ticks all of the boxes for me. We did go beyond what the instructor asked of us and used digital prototyping instead of paper prototype and it turns out great. I am pleased with my group’s assignment 2 effort.
+

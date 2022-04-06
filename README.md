@@ -52,16 +52,18 @@ I truly want to revise my lab submission and get feedbacks from the teaching sta
 Starting after mid-semester break, I would like to read the module notes before coming into the lecture because I did just that for another course, where I read slides before coming to lecture, and it made the material contents easier to understand and digest. I am struggling a bit with INFOSYS221 and I want to overcome it, therefore, my goal is to alleviate my issue by coming in prepared.
 
 ## 2. Lab Content – Outward Looking
-* Reflection Question #29: In what ways did your work not meet the standards for this assignment?*
+*Reflection Question #29: In what ways did your work not meet the standards for this assignment?*
 
 During the group exercise for Lab 5, I tried to contribute to the discussion of writing the codes. I have the idea of how to structure the code and where to reuse functions, but I can improve better as a code writer. My part of the group work does not meet the lab assignment standard because there are some incomplete functions calls that we forgot to include and I overlooked it.
+<<<<<<< HEAD
 
 ## 3. Assignment Content – Inward Looking
-* Reflection Question #13: Did you meet your standards?*
+*Reflection Question #13: Did you meet your standards?*
 
 My groups matched my standards in designing the prototype for our application. I find our group prototype to be neat and professional-looking and it ticks all of the boxes for me. We did go beyond what the instructor asked of us and used digital prototyping instead of paper prototype and it turns out great. I am pleased with my group’s assignment 2 effort.
 
 ## 4. Course Overall – Backward Looking
-* Reflection Question #4: In what ways have you gotten better at this kind of work?*
+*Reflection Question #4: In what ways have you gotten better at this kind of work?*
 
 I am getting better at comprehending Javascript, there is definitely improvement in my understanding after having spent time writing Javascript codes with my group members who are better at it than I am. When we do the lab together, I watch intently on how their thought process work when they write the code and I learn from them.
+

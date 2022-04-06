@@ -61,3 +61,7 @@ During the group exercise for Lab 5, I tried to contribute to the discussion of 
 
 My groups matched my standards in designing the prototype for our application. I find our group prototype to be neat and professional-looking and it ticks all of the boxes for me. We did go beyond what the instructor asked of us and used digital prototyping instead of paper prototype and it turns out great. I am pleased with my group’s assignment 2 effort.
 
+## 4. Course Overall – Backward Looking
+* Reflection Question #4: In what ways have you gotten better at this kind of work?*
+
+I am getting better at comprehending Javascript, there is definitely improvement in my understanding after having spent time writing Javascript codes with my group members who are better at it than I am. When we do the lab together, I watch intently on how their thought process work when they write the code and I learn from them.

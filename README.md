@@ -65,5 +65,3 @@ My groups matched my standards in designing the prototype for our application. I
 *Reflection Question #4: In what ways have you gotten better at this kind of work?*
 
 I am getting better at comprehending Javascript, there is definitely improvement in my understanding after having spent time writing Javascript codes with my group members who are better at it than I am. When we do the lab together, I watch intently on how their thought process work when they write the code and I learn from them.
-
-

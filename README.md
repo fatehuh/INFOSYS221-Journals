@@ -55,7 +55,6 @@ Starting after mid-semester break, I would like to read the module notes before 
 *Reflection Question #29: In what ways did your work not meet the standards for this assignment?*
 
 During the group exercise for Lab 5, I tried to contribute to the discussion of writing the codes. I have the idea of how to structure the code and where to reuse functions, but I can improve better as a code writer. My part of the group work does not meet the lab assignment standard because there are some incomplete functions calls that we forgot to include and I overlooked it.
-<<<<<<< HEAD
 
 ## 3. Assignment Content – Inward Looking
 *Reflection Question #13: Did you meet your standards?*
@@ -66,4 +65,5 @@ My groups matched my standards in designing the prototype for our application. I
 *Reflection Question #4: In what ways have you gotten better at this kind of work?*
 
 I am getting better at comprehending Javascript, there is definitely improvement in my understanding after having spent time writing Javascript codes with my group members who are better at it than I am. When we do the lab together, I watch intently on how their thought process work when they write the code and I learn from them.
+
 

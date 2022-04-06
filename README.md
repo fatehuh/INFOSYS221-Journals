@@ -42,3 +42,11 @@ If someone were to take a good look at my assignment 1 work, they may find out t
 *Reflection Question #32: What would you change if you had a chance to do this piece over again?*
 
 I truly want to revise my lab submission and get feedbacks from the teaching staffs again to improve my pseudo coding skills. Time is a constraint here and I am trying to catch up with other aspect of the course. I understood that my lab work was not completed, and I might have new ideas for new iterations that can be made just that it may not be a priority at the moment. I also may have asked my assignment group members to help me on the submission. If I could change my lab work, I would want to ask for help from my group member on the work.
+
+
+# LEARNING JOURNAL 3
+
+## 1. Lecture Content – Forward Looking
+*Reflection Question #36: What’s one goal you would like to set for yourself for the next time?*
+
+Starting after mid-semester break, I would like to read the module notes before coming into the lecture because I did just that for another course, where I read slides before coming to lecture, and it made the material contents easier to understand and digest. I am struggling a bit with INFOSYS221 and I want to overcome it, therefore, my goal is to alleviate my issue by coming in prepared.

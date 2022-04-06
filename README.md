@@ -50,3 +50,8 @@ I truly want to revise my lab submission and get feedbacks from the teaching sta
 *Reflection Question #36: What’s one goal you would like to set for yourself for the next time?*
 
 Starting after mid-semester break, I would like to read the module notes before coming into the lecture because I did just that for another course, where I read slides before coming to lecture, and it made the material contents easier to understand and digest. I am struggling a bit with INFOSYS221 and I want to overcome it, therefore, my goal is to alleviate my issue by coming in prepared.
+
+## 2. Lab Content – Outward Looking
+* Reflection Question #29: In what ways did your work not meet the standards for this assignment?*
+
+During the group exercise for Lab 5, I tried to contribute to the discussion of writing the codes. I have the idea of how to structure the code and where to reuse functions, but I can improve better as a code writer. My part of the group work does not meet the lab assignment standard because there are some incomplete functions calls that we forgot to include and I overlooked it.

@@ -65,3 +65,15 @@ My groups matched my standards in designing the prototype for our application. I
 *Reflection Question #4: In what ways have you gotten better at this kind of work?*
 
 I am getting better at comprehending Javascript, there is definitely improvement in my understanding after having spent time writing Javascript codes with my group members who are better at it than I am. When we do the lab together, I watch intently on how their thought process work when they write the code and I learn from them.
+
+## 5. Git Content
+*Which git command did I use and why*
+
+Disclaimer: I chose git revert and tried to execute the command, however, I encountered “unmerged paths” error that I cannot fix and therefore, unable for it to show for my git revert commit. To still demonstrate that I know how to git revert, I will list the command I ran:
+
+1.	I committed all four reflection questions on my local repository and git pushed it to my remote repository.
+2.	I check my git status and git log.
+3.	I then run the command git revert (commit SHA number), in my case, git revert ac62f63.
+4.	I then encounter “unmerged path” issue but I’m sure if the error did not interfere, I should then run another git push to update my remote repository.
+
+For me, I chose git revert to undo just the third reflection question because git revert will maintain all my other question commits and just uses new commit to under the one specific commit that I made for question 3.

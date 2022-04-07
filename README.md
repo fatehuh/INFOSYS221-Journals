@@ -73,7 +73,8 @@ Disclaimer: I chose git revert and tried to execute the command, however, I enco
 
 1.	I committed all four reflection questions on my local repository and git pushed it to my remote repository.
 2.	I check my git status and git log.
-3.	I then run the command git revert (commit SHA number), in my case, git revert ac62f63.
-4.	I then encounter “unmerged path” issue but I’m sure if the error did not interfere, I should then run another git push to update my remote repository.
+3.  I run a git reflog command. Check for SHA number of reflection question 3.
+4.	I then run the command git revert (commit SHA number), in my case, git revert ac62f63.
+5.	I then encounter “unmerged path” issue but I’m sure if the error did not interfere, I should then run another git push to update my remote repository.
 
-For me, I chose git revert to undo just the third reflection question because git revert will maintain all my other question commits and just uses new commit to under the one specific commit that I made for question 3.
+For me, I chose git revert to undo the third reflection question because git revert will maintain all my other question commits and uses new commit to undo just the one specific commit that I made for question 3.

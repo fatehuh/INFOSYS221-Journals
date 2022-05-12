@@ -78,3 +78,11 @@ Disclaimer: I chose git revert and tried to execute the command, however, I enco
 5.	I then encounter “unmerged path” issue but I’m sure if the error did not interfere, I should then run another git push to update my remote repository.
 
 For me, I chose git revert to undo the third reflection question because git revert will maintain all my other question commits and uses new commit to undo just the one specific commit that I made for question 3.
+
+
+# LEARNING JOURNAL 4
+
+## 1. Lecture Content
+I started preparing for lecture session by having my notes printed prior to watching lecture recordings and skimmed through. It has helped me have basic idea of the topics rather than just leaving me blank as the lecturers explain the topic. It may be hard to keep doing this due to my packed schedule but doing it whenever I can make the differences. Small progress is progress 
+
+

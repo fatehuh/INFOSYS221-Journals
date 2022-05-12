@@ -91,3 +91,5 @@ There is a lot of confusion going on for me when it comes to object template and
 ## 3. Mid-Term Test Content
 I struggled with the mid-term test content because of time constraint, especially with the coding part of the test. I understood most coding questions and how it needs to be answered but I took a really long time to structure my answer. Along with other questions taking my time to understand and answer, I had to leave a few coding questions blank. More frequent hands-on practices should really improve my timing issue.
 
+## 4. Course Overall
+I find myself quite struggling with the course’s recording issues even though the lecturer will recap it in the next one. I feel like it is not the same thing repeated, as it is just a recap and I have missed out on something crucial adding to my confusion on some topic. I do think I am slowly lagging behind for this course, but I should be able to keep up in the next week or two.

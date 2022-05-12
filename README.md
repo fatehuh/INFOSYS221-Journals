@@ -83,8 +83,11 @@ For me, I chose git revert to undo the third reflection question because git rev
 # LEARNING JOURNAL 4
 
 ## 1. Lecture Content
-I started preparing for lecture session by having my notes printed prior to watching lecture recordings and skimmed through. It has helped me have basic idea of the topics rather than just leaving me blank as the lecturers explain the topic. It may be hard to keep doing this due to my packed schedule but doing it whenever I can make the differences. Small progress is progress 
+I started preparing for lecture session by having my notes printed prior to watching lecture recordings and skimmed through. It has helped me have basic idea of the topics rather than just leaving me blank as the lecturers explain the topic. It may be hard to keep doing this due to my packed schedule but doing it whenever I can make the differences. Small progress is progress!
 
 ## 2. Lab Content
 There is a lot of confusion going on for me when it comes to object template and JSON. Therefore, I contributed lesser than all my group members in this week’s lab. Nonetheless, I learned a lot from the lab as my group members discussed object templates, constructors, JSON (and I googled a lot of what they were talking about). My new focus is to understand object better.
+
+## 3. Mid-Term Test Content
+I struggled with the mid-term test content because of time constraint, especially with the coding part of the test. I understood most coding questions and how it needs to be answered but I took a really long time to structure my answer. Along with other questions taking my time to understand and answer, I had to leave a few coding questions blank. More frequent hands-on practices should really improve my timing issue.
 

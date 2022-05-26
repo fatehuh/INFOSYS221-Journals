@@ -102,3 +102,6 @@ For this week, I am lagging behind on lecture content due to some unavoidable pe
 
 ## 2. Lab Content
 I find Lab 11 a bit difficult for me and my group mate to complete as all of us struggle to recall previous lessons and some parts none of us has watch the required lecture (we may have lagged behind on some of the lectures due to some hectic weeks). We really struggled with this week’s lab and was disappointed at our incomplete attempt. Thus, it is advisable that we revisit the lab and reflect on which parts need improvements on. 
+
+## 3. Course Overall
+INFOSYS221 is an extremely challenging course to date for me. I had a spark of interest for coding a while, and this was the third coding-related course I took. It is much exciting and intriguing, yet it is so demanding as it does involves technical skill learning. I would not say this course dampened my interest for coding, but I do think I have a lot to learn before I can be minimally knowledgeable on the skill.

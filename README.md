@@ -99,3 +99,6 @@ I find myself quite struggling with the course’s recording issues even though 
 
 ## 1. Lecture Content
 For this week, I am lagging behind on lecture content due to some unavoidable personal circumstances. I only have the faintest idea of what this week’s lecture is about, however, I will be making time during this weekend in order to catch up with this week’s recorded lecture. I may ask one of my project group members to brief me on the topic and perhaps explain any difficult parts to me so that I will have some peer guidance on the topic.
+
+## 2. Lab Content
+I find Lab 11 a bit difficult for me and my group mate to complete as all of us struggle to recall previous lessons and some parts none of us has watch the required lecture (we may have lagged behind on some of the lectures due to some hectic weeks). We really struggled with this week’s lab and was disappointed at our incomplete attempt. Thus, it is advisable that we revisit the lab and reflect on which parts need improvements on. 

@@ -93,3 +93,9 @@ I struggled with the mid-term test content because of time constraint, especiall
 
 ## 4. Course Overall
 I find myself quite struggling with the course’s recording issues even though the lecturer will recap it in the next one. I feel like it is not the same thing repeated, as it is just a recap and I have missed out on something crucial adding to my confusion on some topic. I do think I am slowly lagging behind for this course, but I should be able to keep up in the next week or two.
+
+
+# LEARNING JOURNAL 5
+
+## 1. Lecture Content
+For this week, I am lagging behind on lecture content due to some unavoidable personal circumstances. I only have the faintest idea of what this week’s lecture is about, however, I will be making time during this weekend in order to catch up with this week’s recorded lecture. I may ask one of my project group members to brief me on the topic and perhaps explain any difficult parts to me so that I will have some peer guidance on the topic.
